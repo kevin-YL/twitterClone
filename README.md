@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[![twitterpt1.gif](https://s4.gifyu.com/images/twitterpt1.gif)](https://gifyu.com/image/ZDRV)
+<iframe src="https://giphy.com/embed/rLiFabMvEjOswEHU9J" width="245" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rLiFabMvEjOswEHU9J">via GIPHY</a></p>
 
