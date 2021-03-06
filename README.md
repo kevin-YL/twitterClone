@@ -1,4 +1,5 @@
 # Project 3 - *Twitter clone*
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **Twitter clone** is a basic twitter app to read your tweets.
 
@@ -23,5 +24,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe src="https://giphy.com/embed/rLiFabMvEjOswEHU9J" width="245" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rLiFabMvEjOswEHU9J">via GIPHY</a></p>
+<img src='https://media.giphy.com/media/rLiFabMvEjOswEHU9J/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
