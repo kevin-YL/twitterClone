@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s4.gifyu.com/images/twitterpt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![twitterpt1.gif](https://s4.gifyu.com/images/twitterpt1.gif)](https://gifyu.com/image/ZDRV)
 
