@@ -1,5 +1,4 @@
 # Project 3 - *Twitter clone*
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 **Twitter clone** is a basic twitter app to read your tweets.
 
