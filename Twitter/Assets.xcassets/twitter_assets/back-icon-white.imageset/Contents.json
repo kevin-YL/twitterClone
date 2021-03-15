@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Twitter_Logo_Blue-1.png",
+      "filename" : "back-icon-white.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "back-icon-white@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "back-icon-white@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
